@@ -1,0 +1,322 @@
+﻿[
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 800,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "1",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 650,
+    "currency": {
+      "id": "1",
+      "value": "דולר"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "2",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 900,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "3",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 300,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "4",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 800,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "1",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 300,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "5",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 300,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "6",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 300,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "7",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 800,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "1",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 800,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "1",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  },
+  {
+    "invoiceDate": "12/02/2024",
+    "invoiceNum": "D8117.1700048",
+    "institution": {
+      "id": "1",
+      "value": "משטרת ישראל - מטה ארצי"
+    },
+    "payingInstitution": {
+      "id": "1",
+      "value": "העירייה"
+    },
+    "matchStatus": {
+      "id": "1",
+      "value": "התאמה מלאה"
+    },
+    "sum": 800,
+    "currency": {
+      "id": "1",
+      "value": "מטבע ישראלי"
+    },
+    "externalReference": "12145",
+    "reservation": {
+      "id": "1",
+      "value": "88741"
+    },
+    "eventCode": "93265",
+    "productNum": "2514215251",
+    "createdBy": "יעל"
+  }
+
+]

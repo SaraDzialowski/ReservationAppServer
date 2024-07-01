@@ -1,0 +1,651 @@
+[
+  {
+    "activityDayStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+
+    "activityDayType": {
+      "id": "1",
+      "value": "פעילות הדרכה עד 6 שעות"
+    },
+    "activityName": "שמירת מקום ללא תשלום",
+    "actualNumberOfVisitors": 30,
+    "bidItemShortList": [],
+    "city": "ירושלים",
+    "department": {
+      "id": "00345",
+      "value": "מרכז הזמנות - הנצחה"
+    },
+    "resource": {
+      "id": "15458795889999999999",
+      "value": "מוזיאון"
+    },
+    "product": {
+      "id": "000001336",
+      "value": "אירגון המסע לפולין"
+    },
+    "endDate": "20/04/2027",
+    "endTime": "13:00",
+    "id": "03232424",
+    "invoiceList": [],
+    "isActivityDayLocked": false,
+    "isBhadimCity": false,
+    "isGoToServer": false,
+    "isNeedBigQuestions": false,
+    "isNeedCampus": false,
+    "isNeedMuseum": true,
+    "location": {
+      "id": "454364",
+      "value": "יד ושם"
+    },
+    "numberOfGroups": 1,
+    "numberOfVisitors": 30,
+    "numOfActorNeeded": 0,
+    "numOfActorScheduled": 0,
+    "numOfCantorNeeded": 0,
+    "numOfCantorScheduled": 0,
+    "numOfGuideNeeded": 1,
+    "numOfGuideScheduled": 1,
+    "numOfLecturerNeeded": 0,
+    "numOfLecturerScheduled": 0,
+    "numOfTestimonyNeeded": 0,
+    "numOfTestimonyScheduled": 0,
+    "paymentStatus": {
+      "id": "7",
+      "value": "שמירת מקום אים צורך בתשלום"
+    },
+    "serviceProviderShortList": [],
+    "startDate": "16/09/2019",
+    "startTime": "10:00",
+    "startTimeMuseumEventItemList": [],
+    "didGroupArrive": true,
+    "divisionRouter": {
+      "id": "1",
+      "value": "הנצחה"
+    },
+    "isDeleted": false,
+    "isDirty": false,
+    "reservation": {
+      "budgetFramework": {
+        "id": "1471",
+        "value": "קהל רחב- ביקור במוזיאון"
+      },
+      "coordinator": {
+        "id": "77575",
+        "value": "שרה כהן"
+      },
+      "createdBy": {
+        "id": "09000",
+        "value": "שמעון לוי"
+      },
+      "divisionRouter": "1",
+      "fullNameContact": "יעל גוב",
+      "groupName": "קבוצת תיירים",
+      "id": "9808976",
+      "institution": {
+        "id": "",
+        "value": ""
+      },
+      "isApprovedByCoordinator": false,
+      "isInstitutionHaredi": false,
+      "language": {
+        "id": "92313",
+        "value": "עברית"
+      },
+      "modifiedOn": "12/02/2024",
+      "numberOfGroups": 1,
+      "numberOfVisitors": 30,
+      "paymentStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "reservationNum": "RSV-7878",
+      "reservationStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "internalComments": "הקבוצה השאת מגיעה פעם שניה"
+    },
+    "numOfActivityDaysForParent": 2
+  },
+  {
+    "activityDayStatus": {
+      "id": "2",
+      "value": "סיום טיפול"
+    },
+    "activityDayType": {
+      "id": "2",
+      "value": "פעילות הדרכה עד 3 שעות"
+    },
+    "activityName": "הדרכה עד 3 שעות",
+    "actualNumberOfVisitors": 20,
+    "bidItemShortList": [],
+    "city": "בני ברק",
+    "department": {
+      "id": "00344",
+      "value": "פעילות חול"
+    },
+    "resource": {
+      "id": "000004545",
+      "value": "כיתת בכירים"
+    },
+    "product": {
+      "id": "000007854",
+      "value": "אוהל יזכור"
+    },
+    "endDate": "20/04/2027",
+    "endTime": "14:00",
+    "id": "03232425",
+    "invoiceList": [ "BS333.0000", "BS222.9999" ],
+    "isActivityDayLocked": false,
+    "isBhadimCity": false,
+    "isGoToServer": false,
+    "isNeedBigQuestions": false,
+    "isNeedCampus": false,
+    "isNeedMuseum": true,
+    "location": {
+      "id": "454364",
+      "value": "יד ושם"
+    },
+    "numberOfGroups": 2,
+    "numberOfVisitors": 60,
+    "numOfActorNeeded": 0,
+    "numOfActorScheduled": 0,
+    "numOfCantorNeeded": 0,
+    "numOfCantorScheduled": 0,
+    "numOfGuideNeeded": 1,
+    "numOfGuideScheduled": 1,
+    "numOfLecturerNeeded": 0,
+    "numOfLecturerScheduled": 0,
+    "numOfTestimonyNeeded": 0,
+    "numOfTestimonyScheduled": 0,
+    "paymentStatus": {
+      "id": "1",
+      "value": "שולם"
+    },
+    "serviceProviderShortList": [],
+    "startDate": "16/08/2019",
+    "startTime": "08:00",
+    "startTimeMuseumEventItemList": [],
+    "didGroupArrive": true,
+    "divisionRouter": {
+      "id": "2",
+      "value": "בית ספר"
+    },
+    "reservation": {
+      "budgetFramework": {
+        "id": "9999",
+        "value": "קהל רחב- ביקור במוזיאון"
+      },
+      "coordinator": {
+        "id": "77575",
+        "value": "שרה כהן"
+      },
+      "createdBy": {
+        "id": "09000",
+        "value": "שמעון לוי"
+      },
+      "divisionRouter": "1",
+      "fullNameContact": "יעל גוב",
+      "groupName": "קבוצת תיירים",
+      "id": "9808976",
+      "institution": {
+        "id": "999",
+        "value": "בית יעקב"
+      },
+      "isApprovedByCoordinator": false,
+      "isInstitutionHaredi": true,
+      "language": {
+        "id": "92313",
+        "value": "עברית"
+      },
+      "modifiedOn": "12/02/2024",
+      "numberOfGroups": 2,
+      "numberOfVisitors": 60,
+      "paymentStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "reservationNum": "RSV-9999998",
+      "reservationStatus": {
+        "id": "2",
+        "value": "סיום טיפול"
+      },
+      "internalComments": ""
+    },
+    "numOfActivityDaysForParent": 1,
+    "isOrderConfirmed": true
+  },
+  {
+    "activityDayStatus": {
+      "id": "2",
+      "value": "סיום טיפול"
+    },
+    "activityDayType": {
+      "id": "3",
+      "value": "פעילות הדרכה עד 8 שעות"
+    },
+    "activityName": "הדרכה עד 3 שעות",
+    "actualNumberOfVisitors": 20,
+    "bidItemShortList": [],
+    "city": "בני ברק",
+    "department": {
+      "id": "00344",
+      "value": "פעילות חול"
+    },
+    "resource": {
+      "id": "000001369",
+      "value": "אאא"
+    },
+    "product": {
+      "id": "000001336",
+      "value": "אירגון המסע לפולין"
+    },
+    "endDate": "20/04/2027",
+    "endTime": "12:00",
+    "id": "03232425",
+    "invoiceList": [ "BS333.0000", "BS222.9999" ],
+    "isActivityDayLocked": false,
+    "isBhadimCity": false,
+    "isGoToServer": false,
+    "isNeedBigQuestions": false,
+    "isNeedCampus": false,
+    "isNeedMuseum": true,
+    "location": {
+      "id": "454364",
+      "value": "יד ושם"
+    },
+    "numberOfGroups": 2,
+    "numberOfVisitors": 60,
+    "numOfActorNeeded": 0,
+    "numOfActorScheduled": 0,
+    "numOfCantorNeeded": 0,
+    "numOfCantorScheduled": 0,
+    "numOfGuideNeeded": 1,
+    "numOfGuideScheduled": 1,
+    "numOfLecturerNeeded": 0,
+    "numOfLecturerScheduled": 0,
+    "numOfTestimonyNeeded": 0,
+    "numOfTestimonyScheduled": 0,
+    "paymentStatus": {
+      "id": "1",
+      "value": "שולם"
+    },
+    "serviceProviderShortList": [],
+    "startDate": "07/03/2024",
+    "startTime": "08:00",
+    "startTimeMuseumEventItemList": [],
+    "didGroupArrive": true,
+    "divisionRouter": {
+      "id": "2",
+      "value": "בית ספר"
+    },
+    "reservation": {
+      "budgetFramework": {
+        "id": "8888",
+        "value": "פעילות הדרכה עד 10 שעות"
+      },
+      "coordinator": {
+        "id": "77575",
+        "value": "שרה יערי"
+      },
+      "createdBy": {
+        "id": "09000",
+        "value": "שמעון לוי"
+      },
+      "divisionRouter": "1",
+      "fullNameContact": "יעל גוב",
+      "groupName": "קבוצת תיירים",
+      "id": "9808976",
+      "institution": {
+        "id": "999",
+        "value": "בית יעקב"
+      },
+      "isApprovedByCoordinator": false,
+      "isInstitutionHaredi": true,
+      "language": {
+        "id": "92313",
+        "value": "עברית"
+      },
+      "modifiedOn": "12/02/2024",
+      "numberOfGroups": 2,
+      "numberOfVisitors": 60,
+      "paymentStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "reservationNum": "RSV-6666",
+      "reservationStatus": {
+        "id": "2",
+        "value": "סיום טיפול"
+      },
+      "internalComments": ""
+    },
+    "numOfActivityDaysForParent": 1,
+    "isOrderConfirmed": true
+  },
+  {
+    "activityDayStatus": {
+      "id": "4",
+      "value": "ממתין לשיבוץ"
+    },
+    "activityDayType": {
+      "id": "4",
+      "value": "עדות ע'י ניצול שואה"
+    },
+    "activityName": "הדרכה עד 6 שעות",
+    "actualNumberOfVisitors": 10,
+    "bidItemShortList": [],
+    "city": "תל אביב",
+    "department": {
+      "id": "00345",
+      "value": "מרכז הזמנות - הנצחה"
+    },
+    "resource": {
+      "id": "000001555",
+      "value": "מוזיאון"
+    },
+    "product": {
+      "id": "000001336",
+      "value": "אירגון המסע לפולין"
+    },
+    "endDate": "20/04/2027",
+    "endTime": "12:00",
+    "id": "03232425",
+    "invoiceList": [],
+    "isActivityDayLocked": false,
+    "isBhadimCity": false,
+    "isGoToServer": false,
+    "isNeedBigQuestions": false,
+    "isNeedCampus": false,
+    "isNeedMuseum": true,
+    "location": {
+      "id": "454363",
+      "value": "אצל המזמין"
+    },
+    "numberOfGroups": 2,
+    "numberOfVisitors": 10,
+    "numOfActorNeeded": 1,
+    "numOfActorScheduled": 0,
+    "numOfCantorNeeded": 1,
+    "numOfCantorScheduled": 0,
+    "numOfGuideNeeded": 1,
+    "numOfGuideScheduled": 1,
+    "numOfLecturerNeeded": 1,
+    "numOfLecturerScheduled": 0,
+    "numOfTestimonyNeeded": 0,
+    "numOfTestimonyScheduled": 0,
+    "paymentStatus": {
+      "id": "1",
+      "value": "שולם"
+    },
+    "serviceProviderShortList": [],
+    "startDate": "16/09/2024",
+    "startTime": "08:00",
+    "startTimeMuseumEventItemList": [],
+    "didGroupArrive": true,
+    "divisionRouter": {
+      "id": "1",
+      "value": "הנצחה"
+    },
+    "reservation": {
+      "budgetFramework": {
+        "id": "9999",
+        "value": "קהל רחב- ביקור במוזיאון"
+      },
+      "coordinator": {
+        "id": "77575",
+        "value": "שרה כהן"
+      },
+      "createdBy": {
+        "id": "09000",
+        "value": "שמעון לוי"
+      },
+      "divisionRouter": "1",
+      "fullNameContact": "יעל גוב",
+      "groupName": "קבוצת תיירים",
+      "id": "9808976",
+      "institution": {
+        "id": "",
+        "value": ""
+      },
+      "isApprovedByCoordinator": false,
+      "isInstitutionHaredi": false,
+      "language": {
+        "id": "92313",
+        "value": "עברית"
+      },
+      "modifiedOn": "12/02/2024",
+      "numberOfGroups": 2,
+      "numberOfVisitors": 60,
+      "paymentStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "reservationNum": "RSV-9999998",
+      "reservationStatus": {
+        "id": "2",
+        "value": "סיום טיפול"
+      },
+      "internalComments": ""
+    },
+    "numOfActivityDaysForParent": 2,
+    "isOrderConfirmed": true
+  },
+  {
+    "activityDayStatus": {
+      "id": "4",
+      "value": "ממתין לשיבוץ"
+    },
+    "activityDayType": {
+      "id": "5",
+      "value": "הרצאה"
+    },
+    "activityName": "הדרכה עד 6 שעות",
+    "actualNumberOfVisitors": 10,
+    "bidItemShortList": [],
+    "city": "תל אביב",
+    "department": {
+      "id": "00345",
+      "value": "מרכז הזמנות - הנצחה"
+    },
+    "resource": {
+      "id": "000001555",
+      "value": "מוזיאון"
+    },
+    "product": {
+      "id": "000001336",
+      "value": "אירגון המסע לפולין"
+    },
+    "endDate": "20/04/2027",
+    "endTime": "12:00",
+    "id": "03232425",
+    "invoiceList": [],
+    "isActivityDayLocked": false,
+    "isBhadimCity": false,
+    "isGoToServer": false,
+    "isNeedBigQuestions": false,
+    "isNeedCampus": false,
+    "isNeedMuseum": true,
+    "location": {
+      "id": "454363",
+      "value": "אאאאאאא"
+    },
+    "numberOfGroups": 2,
+    "numberOfVisitors": 10,
+    "numOfActorNeeded": 1,
+    "numOfActorScheduled": 0,
+    "numOfCantorNeeded": 1,
+    "numOfCantorScheduled": 0,
+    "numOfGuideNeeded": 1,
+    "numOfGuideScheduled": 1,
+    "numOfLecturerNeeded": 1,
+    "numOfLecturerScheduled": 0,
+    "numOfTestimonyNeeded": 0,
+    "numOfTestimonyScheduled": 0,
+    "paymentStatus": {
+      "id": "1",
+      "value": "שולם"
+    },
+    "serviceProviderShortList": [],
+    "startDate": "16/08/2019",
+    "startTime": "08:00",
+    "startTimeMuseumEventItemList": [],
+    "didGroupArrive": true,
+    "divisionRouter": {
+      "id": "1",
+      "value": "הנצחה"
+    },
+    "reservation": {
+      "budgetFramework": {
+        "id": "9999",
+        "value": "קהל רחב- ביקור במוזיאון"
+      },
+      "coordinator": {
+        "id": "77575",
+        "value": "שרה כהן"
+      },
+      "createdBy": {
+        "id": "09000",
+        "value": "שמעון לוי"
+      },
+      "divisionRouter": "1",
+      "fullNameContact": "יעל גוב",
+      "groupName": "קבוצת תיירים",
+      "id": "9808976",
+      "institution": {
+        "id": "",
+        "value": ""
+      },
+      "isApprovedByCoordinator": false,
+      "isInstitutionHaredi": false,
+      "language": {
+        "id": "92313",
+        "value": "עברית"
+      },
+      "modifiedOn": "12/02/2024",
+      "numberOfGroups": 2,
+      "numberOfVisitors": 60,
+      "paymentStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "reservationNum": "RSV-9999998",
+      "reservationStatus": {
+        "id": "2",
+        "value": "סיום טיפול"
+      },
+      "internalComments": ""
+    },
+    "numOfActivityDaysForParent": 2
+  },
+  {
+    "activityDayStatus": {
+      "id": "4",
+      "value": "ממתין לשיבוץ"
+    },
+    "activityDayType": {
+      "id": "6",
+      "value": "ניידות חינוכיות"
+    },
+    "activityName": "הדרכה עד 6 שעות",
+    "actualNumberOfVisitors": 10,
+    "bidItemShortList": [],
+    "city": "תל אביב",
+    "department": {
+      "id": "00345",
+      "value": "מרכז הזמנות - הנצחה"
+    },
+    "resource": {
+      "id": "000001555",
+      "value": "מוזיאון"
+    },
+    "product": {
+      "id": "8989",
+      "value": "אירגון המסע לפולין"
+    },
+    "endDate": "20/04/2027",
+    "endTime": "12:00",
+    "id": "03232425",
+    "invoiceList": [],
+    "isActivityDayLocked": false,
+    "isBhadimCity": false,
+    "isGoToServer": false,
+    "isNeedBigQuestions": false,
+    "isNeedCampus": false,
+    "isNeedMuseum": true,
+    "location": {
+      "id": "454363",
+      "value": "אצל המזמין"
+    },
+    "numberOfGroups": 2,
+    "numberOfVisitors": 10,
+    "numOfActorNeeded": 1,
+    "numOfActorScheduled": 0,
+    "numOfCantorNeeded": 1,
+    "numOfCantorScheduled": 0,
+    "numOfGuideNeeded": 1,
+    "numOfGuideScheduled": 1,
+    "numOfLecturerNeeded": 1,
+    "numOfLecturerScheduled": 0,
+    "numOfTestimonyNeeded": 0,
+    "numOfTestimonyScheduled": 0,
+    "paymentStatus": {
+      "id": "1",
+      "value": "שולם"
+    },
+    "serviceProviderShortList": [],
+    "startDate": "16/09/2019",
+    "startTime": "08:00",
+    "startTimeMuseumEventItemList": [],
+    "didGroupArrive": true,
+    "divisionRouter": {
+      "id": "1",
+      "value": "הנצחה"
+    },
+    "reservation": {
+      "budgetFramework": {
+        "id": "9999",
+        "value": "קהל רחב- ביקור במוזיאון"
+      },
+      "coordinator": {
+        "id": "77575",
+        "value": "שרה כהן"
+      },
+      "createdBy": {
+        "id": "09000",
+        "value": "שמעון לוי"
+      },
+      "divisionRouter": "1",
+      "fullNameContact": "יעל גוב",
+      "groupName": "קבוצת תיירים",
+      "id": "9808976",
+      "institution": {
+        "id": "",
+        "value": ""
+      },
+      "isApprovedByCoordinator": false,
+      "isInstitutionHaredi": false,
+      "language": {
+        "id": "92313",
+        "value": "עברית"
+      },
+      "modifiedOn": "12/02/2024",
+      "numberOfGroups": 2,
+      "numberOfVisitors": 60,
+      "paymentStatus": {
+        "id": "1",
+        "value": "חדש"
+      },
+      "reservationNum": "RSV-9999998",
+      "reservationStatus": {
+        "id": "2",
+        "value": "סיום טיפול"
+      },
+      "internalComments": ""
+    },
+    "numOfActivityDaysForParent": 2,
+    "isOrderConfirmed": true
+  }
+]

@@ -1,0 +1,598 @@
+﻿[
+  {
+    "budgetFramework": {
+      "id": "1471",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה אבוטבול"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת חחח",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 2,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-7878",
+    "reservationStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": true,
+    "CreatedOn": "12/02/2021",
+    "activityDayFirstDate": "12/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+
+  },
+  {
+    "budgetFramework": {
+      "id": "8888",
+      "value": "פעילות הדרכה עד 10 שעות"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה יערי"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 4,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-6666",
+    "reservationStatus": {
+      "id": "4",
+      "value": "ממתין לשיבוץ"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/03/2024",
+    "activityDayFirstDate": "12/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "7412",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 10,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999991",
+    "reservationStatus": {
+      "id": "5",
+      "value": "שגיאה"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "11/03/2024",
+    "activityDayFirstDate": "12/04/2026",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "9745",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 5,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999992",
+    "reservationStatus": {
+      "id": "2",
+      "value": "סיום טיפול"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": true,
+    "CreatedOn": "12/02/2027",
+    "activityDayFirstDate": "12/07/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "9678",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 1,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999999",
+    "reservationStatus": {
+      "id": "3",
+      "value": "מבוטל"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/02/2014",
+    "activityDayFirstDate": "15/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "9678",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 1,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999993",
+    "reservationStatus": {
+      "id": "3",
+      "value": "מבוטל"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/02/2014",
+    "activityDayFirstDate": "15/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "8888",
+      "value": "פעילות הדרכה עד 10 שעות"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה יערי"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 4,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-6666",
+    "reservationStatus": {
+      "id": "4",
+      "value": "ממתין לשיבוץ"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/03/2024",
+    "activityDayFirstDate": "12/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "9678",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 1,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999994",
+    "reservationStatus": {
+      "id": "3",
+      "value": "מבוטל"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/02/2014",
+    "activityDayFirstDate": "15/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "8888",
+      "value": "פעילות הדרכה עד 10 שעות"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה יערי"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 4,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-6666",
+    "reservationStatus": {
+      "id": "4",
+      "value": "ממתין לשיבוץ"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/03/2024",
+    "activityDayFirstDate": "12/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "9678",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 1,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999995",
+    "reservationStatus": {
+      "id": "3",
+      "value": "מבוטל"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/02/2014",
+    "activityDayFirstDate": "15/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  },
+  {
+    "budgetFramework": {
+      "id": "9678",
+      "value": "קהל רחב- ביקור במוזיאון"
+    },
+    "coordinator": {
+      "id": "77575",
+      "value": "שרה כהן"
+    },
+    "createdBy": {
+      "id": "09000",
+      "value": "שמעון לוי"
+    },
+    "divisionRouter": "1",
+    "fullNameContact": "יעל גוב",
+    "groupName": "קבוצת תיירים",
+    "id": "9808976",
+    "institution": {
+      "id": "",
+      "value": "יסודות לצמיחת דור"
+    },
+    "isApprovedByCoordinator": false,
+    "isInstitutionHaredi": false,
+    "language": {
+      "id": "92313",
+      "value": "עברית"
+    },
+    "modifiedOn": "12/02/2024",
+    "numberOfGroups": 1,
+    "numberOfVisitors": 30,
+    "paymentStatus": {
+      "id": "1",
+      "value": "חדש"
+    },
+    "reservationNum": "RSV-9999999",
+    "reservationStatus": {
+      "id": "3",
+      "value": "מבוטל"
+    },
+    "internalComments": "הקבוצה השאת מגיעה פעם שניה",
+    "isOrderConfirmed": false,
+    "CreatedOn": "12/02/2014",
+    "activityDayFirstDate": "15/04/2024",
+    "Location": {
+      "id": "9863",
+      "value": "יד ושם"
+    },
+    "TotalPrice": 500,
+    "DiscountType": 2,
+    "Discount": 55,
+    "totalPriceAfterDiscount": 445,
+    "isReservationLocked": true,
+    "invoiceList": [ "BS333.0000", "BS222.9999" ]
+  }
+
+]
