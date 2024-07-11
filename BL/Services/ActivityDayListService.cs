@@ -3,6 +3,10 @@ using DAL.Models;
 using DAL.Repositories;
 using DAL.Repositories.Interfaces;
 using reservation_app_server.Models;
+using System.Dynamic;
+using System.Net.Mail;
+using System.Net.Mime;
+using System.Net;
 
 namespace BL.Services
 {
@@ -35,5 +39,85 @@ namespace BL.Services
             return result;
         }
 
+        public async void SendEmail(MailInfo item)
+        {
+            string fromAddress = "100mailmanagement@gmail.com";
+            string toAddress = item.To;
+            string subject = item.Subject;
+            string body = item.body;
+            string attachmentPath = item.FilePath; // קבלת הנתיב מהקליינט
+
+
+
+            using (MailMessage mail = new MailMessage(fromAddress, toAddress))
+            {
+                mail.Subject = subject;
+                mail.Body = body;
+
+
+
+                if (item.Cc != null && item.Cc.Count > 0)
+                {
+                    foreach (var cc in item.Cc)
+                    {
+                        mail.CC.Add(cc.Trim());
+                    }
+                }
+
+                if (!string.IsNullOrEmpty(attachmentPath))
+                {
+                    try
+                    {
+                        byte[] fileBytes = Convert.FromBase64String(attachmentPath);
+
+                        // Determine the file extension based on the content type
+                        string fileExtension = GetFileExtensionFromBase64(attachmentPath);
+                        if (string.IsNullOrEmpty(fileExtension))
+                        {
+                            throw new InvalidOperationException("Unsupported file type");
+                        }
+
+                        string tempPath = Path.Combine(Path.GetTempPath(), $"{Guid.NewGuid()}{fileExtension}");
+                        await File.WriteAllBytesAsync(tempPath, fileBytes);
+                        Attachment attachment = new Attachment(tempPath, MediaTypeNames.Application.Octet);
+                        mail.Attachments.Add(attachment);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Error decoding or attaching file: {ex.Message}");
+                    }
+                }
+
+
+
+
+
+                using (SmtpClient client = new SmtpClient("smtp.gmail.com"))
+                {
+                    client.Port = 587;
+                    client.Credentials = new NetworkCredential("100mailmanagement@gmail.com", "ysfd pnlq aoxe lrsr");
+                    client.EnableSsl = true;
+
+                    client.Send(mail);
+                }
+            }
+        }
+
+
+        private string GetFileExtensionFromBase64(string base64String)
+        {
+            var data = base64String.Substring(0, 5);
+            switch (data.ToUpper())
+            {
+                case "JVBER": return ".pdf";
+                case "/9J/4": return ".jpg";
+                case "iVBOR": return ".png";
+
+                default: return string.Empty;
+            }
+        }
     }
+
+
 }
+

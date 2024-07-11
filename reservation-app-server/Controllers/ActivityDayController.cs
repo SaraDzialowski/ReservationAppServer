@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using reservation_app_server.Models;
 using System.Collections.Generic;
+using System.Dynamic;
 
 namespace reservation_app_server.Controllers
 {
@@ -22,6 +23,13 @@ namespace reservation_app_server.Controllers
         public ResultItem<ActivityDayListItem> Post(FilterProperties filterProperties)
         {
             return _activityDayListService.GetActivityDayList(filterProperties,true);
+        }
+
+        [HttpPost("SendEmail")]
+        public async Task<IActionResult> Post([FromForm] MailInfo Item)
+        {
+            _activityDayListService.SendEmail(Item);
+            return Ok();
         }
     }
 }

@@ -11,5 +11,6 @@ namespace DAL.Repositories.Interfaces
     public interface IActivityDayListRepository
     {
         List<ActivityDayListItem> GetActivityDayList();
+
     }
 }
