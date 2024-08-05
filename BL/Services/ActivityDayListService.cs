@@ -45,7 +45,7 @@ namespace BL.Services
             string toAddress = item.To;
             string subject = item.Subject;
             string body = item.body;
-            string attachmentPath = item.FilePath; // קבלת הנתיב מהקליינט
+            string attachmentPath = item.FilePath; 
 
 
 
@@ -70,7 +70,6 @@ namespace BL.Services
                     {
                         byte[] fileBytes = Convert.FromBase64String(attachmentPath);
 
-                        // Determine the file extension based on the content type
                         string fileExtension = GetFileExtensionFromBase64(attachmentPath);
                         if (string.IsNullOrEmpty(fileExtension))
                         {
