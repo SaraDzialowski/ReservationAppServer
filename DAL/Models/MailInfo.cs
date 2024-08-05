@@ -13,5 +13,6 @@ namespace DAL.Models
         public string? body { get; set; }
         public string? FilePath { get; set; }
         public List<string>? Cc { get; set; }
+        public string? FileName { get; set; } 
     }
 }

@@ -7,6 +7,7 @@ using System.Dynamic;
 using System.Net.Mail;
 using System.Net.Mime;
 using System.Net;
+using System.Xml.Linq;
 
 namespace BL.Services
 {
@@ -78,7 +79,11 @@ namespace BL.Services
 
                         string tempPath = Path.Combine(Path.GetTempPath(), $"{Guid.NewGuid()}{fileExtension}");
                         await File.WriteAllBytesAsync(tempPath, fileBytes);
-                        Attachment attachment = new Attachment(tempPath, MediaTypeNames.Application.Octet);
+                        Attachment attachment = new Attachment(tempPath, MediaTypeNames.Application.Octet)
+                        {
+                            Name = item.FileName 
+                        };
+
                         mail.Attachments.Add(attachment);
                     }
                     catch (Exception ex)
